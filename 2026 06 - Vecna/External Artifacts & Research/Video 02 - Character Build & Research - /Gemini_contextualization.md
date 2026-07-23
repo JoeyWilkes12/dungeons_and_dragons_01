@@ -1,0 +1,58 @@
+
+# Model
+
+Gemini 3.6 Flash Extending Thinking
+
+# Prompt
+You are a Dungeons & Dragon mastermind. Let's talk about this video. 
+
+https://youtu.be/wjMDqJJvEDY?is=Sjjq7-uZ9h5jDOQq
+
+I am analyzing YouTube transcripts about Dungeons & Dragons Monk builds, especially the 2024 Monk and the Warrior of the Elements subclass.
+My character context:
+
+Character: Dragonborn Monk
+Current level: 10, leveling to 11
+Subclass: Warrior of the Elements
+Rules target: 2024 D&D / 2024 Monk rules unless the transcript clearly says otherwise
+Platform: Roll20 online tabletop
+Character fantasy: elemental Dragonborn martial artist, using unarmed strikes, elemental reach, push/pull movement, mobility, and battlefield control
+Visual identity: Dragonborn warrior surrounded by elemental energy, designed for virtual tabletop play
+My goal: understand what advice from these videos is useful for my specific level 10 → 11 character build
+Important level 11 feature: while Elemental Attunement is active, I gain fly speed and swim speed equal to my Speed
+I do not need generic Monk advice unless it directly affects this character
+I do not need new spell-selection advice unless the transcript explains why it applies to Warrior of the Elements
+I need practical output for gameplay, Roll20 setup, and DM questions
+Please analyze the transcript and answer the following:
+
+Is this video using 2024 Monk rules, 2014 Monk rules, or a mix?
+What advice applies directly to a level 10 → 11 Warrior of the Elements Monk?
+What advice is outdated, edition-specific, or not applicable to my character?
+What does the creator say about Warrior of the Elements, Elemental Attunement, Elemental Burst, flight, mobility, reach, forced movement, grappling, or Focus Point economy?
+What tactical combat loop does the transcript recommend?
+What are the best takeaways for my character specifically?
+What mistakes should I avoid when playing this build?
+What equipment, feats, ability scores, or magic items does the creator recommend?
+What Roll20 reminders, token markers, macros, or sheet updates should I create from this transcript?
+What questions should I ask my DM before using this advice in play?
+Are there any timestamps where the creator gives especially important advice? Provide timestamped notes.
+Give me a final “action checklist” for my next session.
+Please organize the answer into these sections:
+
+Video classification: 2024, 2014, or mixed
+Directly useful advice for my Dragonborn Warrior of the Elements Monk
+Advice to ignore or verify
+Level 11 implications
+Combat tactics
+Focus Point management
+Grappling / flight / forced movement notes
+Equipment and feat notes
+Roll20 setup checklist
+DM questions
+Timestamped highlights
+Final recommended next-session checklist
+Be strict about separating transcript claims from your own inference. If the transcript does not answer something, mark it as “not addressed.”
+
+# Response
+
+Here is the detailed analysis of the Treantmonk’s Temple video ("Warrior of the Elements Monk Guide: Dnd 5e 5.5 2024"), tailored specifically to your Level 10 → 11 Dragonborn Warrior of the Elements Monk.Video Classification: 2024, 2014, or MixedClassification: 2024 Rules (D&D 5.5e).Transcript Details: The creator explicitly bases the breakdown on the 2024 Player’s Handbook rules update for the Monk class and Warrior of the Elements subclass. He contrasts it with the deprecated 2014 "Way of the Four Elements" subclass to highlight design changes, but all mechanical ratings and advice apply directly to 2024 rules.Directly Useful Advice for Your Dragonborn Warrior of the Elements MonkElemental Attunement (Level 3 Feature) [00:01:34]:Activation Cost: Expends 1 Focus Point at the start of your turn with no Action or Bonus Action required. Lasts 10 minutes or until incapacitated [00:01:39].Extended Reach: Increases Unarmed Strike reach by +10 ft [00:01:51]. (Your base 5 ft reach becomes 15 ft total reach [00:03:01]).Elemental Damage: On every unarmed hit, you can deal Acid, Cold, Fire, Lightning, or Thunder damage [00:01:58].Forced Movement: When dealing one of these 5 elemental damage types, you force a Strength saving throw. On a failure, move the target up to 10 ft towards or away from you [00:02:11]. There is no target size limit on this push/pull [00:06:10].Damage Selection: Thunder is statistically the safest elemental type in the 2024 Monster Manual (only 16 creatures resistant/immune) [00:09:17]. Base Monk Force damage is even safer (0 creatures resistant/immune), but dealing Force damage will not trigger the 10 ft push/pull rider [00:06:23].Elemental Burst (Level 6 Feature) [00:012:19]:Uses a Magic Action and costs 2 Focus Points for a 20-ft radius sphere within 120 ft [00:12:25].Deals damage equal to 3 rolls of your Martial Arts die (upgrades to 3d10 at level 11) [00:12:44].Creator Assessment: Rated 2/5 stars because it is swingy and expensive for 2 Focus Points [00:13:59].Stride of the Elements (Level 11 Feature) [00:14:44]:Grants Fly speed and Swim speed equal to your Speed while Elemental Attunement is active [00:14:51]. Lasts the full 10-minute duration [00:16:27].Advice to Ignore or VerifyIgnore Level 17 Feature (Elemental Epitome) [00:16:50]: Resistance switching, Destructive Stride damage, and once-per-turn damage boosts apply only at level 17 [00:17:35].Verify Weapon Masteries / Weapons: Subclass reach, elemental damage, and push/pull work only with Unarmed Strikes, not weapon attacks [00:10:31].Verify Extended Grapple Reach Rules [00:03:22]: The RAW text reads "When you make an unarmed strike, your reach is 10 feet greater than normal." The creator highlights that strict RAW could imply your reach reverts to 5 ft after the attack finishes, potentially breaking a 15-ft grapple [00:03:57]. He notes a D&D Beyond article permitting 15-ft grapples with the Grappler feat, but advises checking with your DM [00:04:45].Level 11 ImplicationsMartial Arts Die Upgrade: Your Martial Arts die increases from d8 to d10 [00:12:44]. Unarmed strikes and Elemental Burst now use d10s.Speed Boost: At level 11, Monk Unarmored Movement grants a +20 ft bonus [00:15:12]. Combined with a 30 ft base race speed, your ground, fly, and swim speeds become 50 ft while Attunement is active.Vertical Control Combo: A 50 ft fly speed allows you to hover 10–15 ft directly above grounded enemies and use vertical pulls [00:15:26].Combat TacticsThe creator recommends the following combat sequence [00:15:26]:Turn Start: Activate Elemental Attunement at the start of Turn 1 (0 Actions / 0 Bonus Actions, 1 Focus Point) [00:02:29].Positioning: Fly 10–15 ft straight up above a grounded target [00:15:26].Vertical Pull: Hit the target with an elemental unarmed strike (e.g., Thunder). On a failed Strength save, pull the target 10 ft vertically into the air [00:15:33].Prone Drop: The target drops 10 ft back to the ground, taking 1d6 falling damage and landing Prone [00:15:39].Close In for Advantage: Fly down within 5 ft of the enemy to gain Advantage on follow-up strikes [00:15:44].Critical Rule: The creator notes that attacking a Prone creature from further than 5 ft away imposes Disadvantage, so you must close to 5 ft for your follow-up attacks [00:16:02].Focus Point ManagementElemental Attunement (1 Focus Point): Extremely efficient (rated 5/5 stars) [00:12:06]. Spending 1 point grants 10 minutes of +10 ft reach, elemental choices, push/pull control, and 50 ft fly/swim speeds [00:14:51].Elemental Burst (2 Focus Points): Costly relative to output (rated 2/5 stars) [00:14:25]. The creator notes that at level 11, a Dragonborn’s innate Breath Weapon deals comparable AoE damage without costing Focus Points [00:13:22]. Save Elemental Burst for dense clusters of low-HP minions when your party lacks spellcaster AoE [00:13:37].Grappling / Flight / Forced Movement NotesNo Size Limit: Unlike Weapon Mastery (Push) or the Crusher feat, Elemental Attunement's push/pull has no size cap [00:06:10].Vertical Displacement: Pulling targets 10 ft straight into the air automatically triggers fall damage (1d6) and the Prone condition [00:15:39].Dexterity Grappling: 2024 Monk rules allow grappling using Dexterity [00:04:52].Equipment and Feat NotesWraps of Unarmed Power (2024 DMG) [00:10:49]: Strongly recommended magic item. Provides a +1, +2, or +3 bonus to attack and damage rolls with unarmed strikes without requiring attunement [00:10:56]. (The +1 version is Uncommon) [00:11:02].Grappler Feat: Highlighted via a D&D Beyond article citation as synergistic with extended reach and Dexterity-based grappling [00:04:45].Ability Scores / Other Feats: Not addressed in transcript.Roll20 Setup ChecklistSheet Updates:Set Martial Arts Die to 1d10.Set Base Movement to 50 ft (accounting for +20 ft Unarmored Movement at level 11).Set Save DC for Elemental Attunement push/pull: 8 + Proficiency Bonus + Wisdom Modifier.Token Markers & Tracking:Create a status marker for Elemental Attunement (10 Min).Use the Roll20 token elevation indicator to track your fly height (e.g., @15ft).Macro Inputs:Unarmed Strike (15 ft Reach): 1d20 + Dex + PB to hit | 1d10 + Dex damage (Type: Thunder/Acid/Cold/Fire/Lightning/Force).Strength Save Prompt: Add a button or chat whisper prompting the target for a Strength Saving Throw against your Monk Save DC on elemental hits.DM QuestionsReach & Grappling RAW: "If I hit a target at 15-foot reach using Elemental Attunement and attempt a grapple, does my reach remain 15 feet to hold them there, or does it revert to 5 feet after the strike, breaking the grapple?" [00:03:57]Vertical Pull Rules: "When flying directly above a target and pulling them 10 feet up with an elemental strike, do they immediately take 1d6 falling damage and land Prone upon falling back down?" [00:15:33]Magic Item Availability: "Does our campaign allow crafting or acquiring the 2024 DMG Wraps of Unarmed Power (+1 or +2) for unarmed strikes?" [00:10:49]Timestamped Highlights[00:01:34] — Level 3 Elemental Attunement: Activation rules, 1 Focus Point cost, 10 min duration, +10 ft reach, elemental damage options, 10 ft push/pull save.[00:02:48] — 15 ft Reach Breakdown: How 5 ft base + 10 ft bonus creates 15 ft reach for unarmed attacks.[00:03:22] — Grappling at Reach Ambiguity: RAW wording breakdown vs. D&D Beyond staff recommendations.[00:06:03] — Push/Pull Mechanics: Strength save details, lack of target size cap, and damage type trigger requirement.[00:08:41] — Elemental Resistance Analysis: Why Thunder is the best elemental option, and why Force damage does not trigger push/pull.[00:10:49] — Item Recommendation: Overview of Wraps of Unarmed Power (+1 to +3, no attunement).[00:12:19] — Level 6 Elemental Burst: 2 Focus Points, 3 Martial Arts dice scaling, and comparison to Dragonborn Breath Weapon.[00:14:44] — Level 11 Stride of the Elements: 10-minute Fly and Swim speeds equal to boosted Monk Speed (50 ft).[00:15:19] — Flight & Vertical Pull Tactical Loop: Step-by-step loop for knocking targets Prone from above and gaining Advantage.Final Recommended Next-Session Checklist[ ] Level Up Character Sheet: Upgrade Martial Arts die to d10 and total Speed to 50 ft.[ ] Macro Setup: Update Roll20 Unarmed Strike reach to 15 ft and add a Strength Save DC macro prompt for push/pull.[ ] Clarify Rules with DM: Confirm vertical falling/Prone mechanics and grapple reach rules before combat begins.[ ] Track Focus Points: Reserve 1 Focus Point for Elemental Attunement at the start of encounter 1.[ ] Execute Tactical Loop: Fly 10–15 ft above ground targets, pull them 10 ft up to force 1d6 fall damage + Prone status, and dive within 5 ft for Advantage on remaining attacks.
