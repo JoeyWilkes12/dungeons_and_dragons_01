@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Editor and temporary files
+*.swp
+*.swo
+*~
+~$*
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Generated OCR scratch space
+.ocr-work/
+
+# Large/local campaign artifacts (shared separately when needed)
+*.png
+*.csv
+*.xlsx
